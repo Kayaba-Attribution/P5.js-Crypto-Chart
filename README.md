@@ -1,7 +1,7 @@
 # Stock Chart
 
 This is a Stock Charting application made primarily with the p5.js JavaScript library. The program displays
-the Open/Close prices of a user inputted stock ticker for the past 15 trading days. The application is
+the Open/Close prices of a user inputted crypto ticker for the past 15 trading days. The application is
 dynamically sized, allowing for the user to adjust their screen size with the chart adjusting accordingly.
 
 ## Getting Started
@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-The only program needed to run the application is a modern web browser (preferably Google Chrome).
+The only program needed to run the application is a modern web browser (preferably Google Chrome or brave).
 
 ## Deployment
 
@@ -36,4 +36,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * Daniel Shiffman - He provided amazing lectures on how to use the p5.js library on his [YouTube Channel](https://youtube.com/shiffman)
-* etc

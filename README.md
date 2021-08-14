@@ -25,7 +25,7 @@ This program can be ran simply by opening the "index.html" file. Alternatively, 
 ## Authors
 
 * **Pearson Buck** - *Initial work* - [pacheights](https://github.com/pacheights)
-* **Juan Gomez ** - *Extension to crypto* - [Kayaba-Attribution](https://github.com/Kayaba-Attribution)
+* **Juan Gomez** - *Extension to crypto* - [Kayaba-Attribution](https://github.com/Kayaba-Attribution)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 

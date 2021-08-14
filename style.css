@@ -1,0 +1,50 @@
+body {
+    padding: 0;
+    margin: 0;
+    margin-top: 1%;
+    background-color: rgb(25, 25, 25);
+}
+
+input {
+    background-color: rgb(25,25,25);
+    color: white;
+    border: none;
+    border-bottom: 1px solid white;
+    width: 12%;
+    height: 5%;
+    font-size: calc(100vw / 35);
+}
+
+input:focus {
+    outline: none;
+}
+
+input: value {
+    color: red;
+}
+
+button {
+    background-color: rgb(25, 25, 25);
+    background: url(images/search.png) no-repeat;
+    background-repeat: none;
+    cursor: pointer;
+    border: none;
+    background-size: 100%;
+    height: calc(100vw / 5);
+    width: 2.5%;
+}
+
+button:active {
+    height: calc(100vw / 4.7);
+    width: 2.7%;
+    outline: none;
+}
+
+button:focus {
+    outline: none;
+}
+
+p {
+    color: white;
+    font-size = 40px;
+}

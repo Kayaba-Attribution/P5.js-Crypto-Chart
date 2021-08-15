@@ -36,3 +36,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * Daniel Shiffman - He provided amazing lectures on how to use the p5.js library on his [YouTube Channel](https://youtube.com/shiffman)
+
+## Final Product
+![image](https://user-images.githubusercontent.com/63566185/129464123-1be26f7e-e783-40f2-b16e-c5494bd053c0.png)
+

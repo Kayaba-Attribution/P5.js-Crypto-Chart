@@ -1,6 +1,6 @@
 # Crypto Chart
 
-This is a Stock Charting application made primarily with the p5.js JavaScript library. The program displays
+This is a crypto Charting application made primarily with the p5.js JavaScript library. The program displays
 the Open/Close prices of a user inputted crypto ticker for the past 15 trading days. The application is
 dynamically sized, allowing for the user to adjust their screen size with the chart adjusting accordingly.
 
